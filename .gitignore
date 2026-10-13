@@ -1,0 +1,13 @@
+# Excel input (surat masuk bulanan) & output (Daftar Isi Berkas Aktif)
+*.xls
+*.xlsx
+
+# Office temporary files
+~$*.xls
+~$*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
