@@ -33,7 +33,7 @@ from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SUMBER = os.path.join(BASE_DIR, "surat masuk Juni 2026.xls")
-TEMPLATE = os.path.join(BASE_DIR, "Daftar Isi Berkas Aktif.xlsx")
+TEMPLATE = os.path.join(BASE_DIR, "template.xlsx")
 OUTPUT = os.path.join(BASE_DIR, "Daftar Isi Berkas Aktif Juni 2026.xlsx")
 FOLDER_SUMBER = os.path.join(BASE_DIR, "Daftar Berkas Per Bulan")
 

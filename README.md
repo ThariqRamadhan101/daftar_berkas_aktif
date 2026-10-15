@@ -43,7 +43,7 @@ Mis. dengan isi folder Januari–Agustus, hasilnya
 | --- | --- |
 | `--folder` | Folder berisi berkas surat masuk bulanan |
 | `--keluaran` | Nama file hasil (opsional) |
-| `--template` | File acuan, kalau bukan yang bawaan |
+| `--template` | File acuan, bawaan `template.xlsx` |
 
 File sumber **harus ditutup** di Excel sebelum dijalankan. Butuh `openpyxl` saja.
 

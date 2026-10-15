@@ -1,6 +1,7 @@
 # Excel input (surat masuk bulanan) & output (Daftar Isi Berkas Aktif)
 *.xls
 *.xlsx
+!template.xlsx
 
 # Office temporary files
 ~$*.xls
